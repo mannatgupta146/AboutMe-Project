@@ -1,4 +1,4 @@
-# ABOUT ME
+# ABOUT ME PROJECT
 
 ## Overview
 This is a simple web project created for fun, serving as a quick introduction about myself, Mannat Gupta. It showcases my interests, skills, and contact information in an engaging manner.
@@ -36,10 +36,10 @@ Here is the quick demo how it works:
 
 ## Installation
 1. Clone the repository:
-   ``` git clone https://github.com/yourusername/quick-introduction.git```
+   ``` git clone https://github.com/mannatgupta146/AboutMe-Project.git```
 
 2. Navigate into the project directory:
-```cd quick-introduction```
+```cd AboutMe-Project```
 
 3. Install dependencies
 ``` npm install```
