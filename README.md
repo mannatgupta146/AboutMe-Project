@@ -61,3 +61,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 2. Improved Styling: Enhancing the user interface for a better user experience.
 3. Dynamic Content: Implementing API integration to fetch dynamic content, such as recent projects or articles.
 4. Responsive Design: Ensuring the application is fully responsive for different devices.
+---
